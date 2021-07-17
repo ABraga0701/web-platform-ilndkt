@@ -10,9 +10,19 @@
 
 .div-menu{
   width: 100%;
-  height: 90px;
+  height: 110px;
   color: whitesmoke;
   text-align: center;
   padding: 25px;
-  background: black;
+  background: chocolate;
+  font-size: larger;
+}
+.div-central{
+  width: 100%;
+  height: 700px;
+  color: rgb(187, 6, 6);
+  text-align: center;
+  background: url(https://media.gettyimages.com/photos/fallen-ice-cream-cone-picture-id145671931);
+  background-size: 1500px 1500px;
+
 }
