@@ -35,4 +35,5 @@
   color: rgb(235, 202, 16);
   margin: 0;
   border: rgb(235, 202, 16) solid 3px;
+  border border-radius: 10px;
 }
