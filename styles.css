@@ -32,7 +32,7 @@
   width: 90%;
   box-sizing: border-box;
   float: left;
-  color: rgb(235, 202, 16);
+  color: rgb(232, 81, 16);
   margin: 0;
   border: rgb(235, 202, 16) solid 3px;
   border-radius: 10px;
@@ -42,6 +42,16 @@
   text-align: center;
   }
 
-  .div-central h1, .div-central h1, .div-central p { color:rgb(235, 202, 16);
+  .div-central h1{ color:rgb(235, 202, 16);
     text-align: center;
     }
+
+  .div-central p{color:rgb(235, 202, 16);
+    text-align: center;
+  }
+  
+  .div-central h2
+  {color:rgb(235, 202, 16);
+    text-align: center;
+  }
+  
